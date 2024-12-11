@@ -6,8 +6,7 @@
 
 #### [Internal Blog Post Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
-
+A habit tracker is what procrastinators need. Some dashboard template we can utilize for any businesses, in any industry, as it is just template. We still need your uniqure insights. 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
