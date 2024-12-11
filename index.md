@@ -1,8 +1,8 @@
-# Welcome to My Portfolio
+# How Things Work is what I care, including how languages are translated by our brain. 
 
 ---
 
-### Learn About My Projects
+### Data generated in the last 7-8 years might be the largest data we could collect in mankind.  
 
 #### [Internal Blog Post Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -11,12 +11,12 @@ Tolulope is the best
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+Starting a pipeline of data collection from scratch and deliver insights to stakeholders. 
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+My final write up for full cycle of data ETL. 
 
 
 ---
